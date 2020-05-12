@@ -1,0 +1,13 @@
+{
+  "name": "@ez-hex/config",
+  "version": "1.0.1",
+  "types": "types/index.d.ts",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+      "prepublishOnly": "tsc -p ."
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.5"
+  }
+}
